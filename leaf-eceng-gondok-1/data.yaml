@@ -1,0 +1,15 @@
+names:
+- daun berpenyakit bercak
+- daun berpenyakit karat
+- daun berpenyakit kuning
+- daun sehat
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: leaf-eceng-gondok
+  url: https://universe.roboflow.com/universitas-widyagama-malang-k0sna/leaf-eceng-gondok/dataset/1
+  version: 1
+  workspace: universitas-widyagama-malang-k0sna
+test: test/images
+train: train/images
+val: valid/images
